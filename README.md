@@ -38,8 +38,9 @@ El agente cuenta con las siguientes herramientas conectadas a una base de datos 
 1. Clonar el repositorio:
 
    ```bash
-   git clone [https://github.com/TU_USUARIO_REAL_AQUI/semillero-ia-netlife.git](https://github.com/TU_USUARIO_REAL_AQUI/semillero-ia-netlife.git)
+   git clone https://github.com/jhonelel-lang/semillero-ia-netlife.git
    cd semillero-ia-netlife
+   cd src
 
 2.  **Crear un entorno virtual (Opcional pero recomendado):**
     ```bash
