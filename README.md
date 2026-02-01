@@ -35,11 +35,11 @@ El agente cuenta con las siguientes herramientas conectadas a una base de datos 
 
 ## 📋 Requisitos de Instalación
 
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPO.git](https://github.com/TU_USUARIO/TU_REPO.git)
-    cd TU_REPO
-    ```
+1. Clonar el repositorio:
+
+   ```bash
+   git clone [https://github.com/TU_USUARIO_REAL_AQUI/semillero-ia-netlife.git](https://github.com/TU_USUARIO_REAL_AQUI/semillero-ia-netlife.git)
+   cd semillero-ia-netlife
 
 2.  **Crear un entorno virtual (Opcional pero recomendado):**
     ```bash
