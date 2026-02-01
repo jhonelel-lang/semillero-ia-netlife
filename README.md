@@ -4,9 +4,35 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Orchestration-green?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-orange?style=for-the-badge)
 
-> **Sistema inteligente de negociación de deuda y gestión de cartera basado en Modelos de Lenguaje (LLMs).**
+Este repositorio contiene el código fuente y documentación de un Agente Inteligente diseñado para automatizar la gestión de cartera vencida, permitiendo la negociación de deudas y el registro de promesas de pago mediante lenguaje natural.
 
-Este proyecto implementa un Agente ReAct (Reasoning + Acting) capaz de interactuar con clientes morosos, validar su identidad, negociar acuerdos de pago basándose en reglas de negocio y registrar promesas en tiempo real.
+---
+
+## 👥 Integrantes
+
+| Rol | Nombre Completo | Cédula | GitHub |
+| :--- | :--- | :--- | :--- |
+| **Líder** | **Jhon Andres Espinoza Vargas** | 0950958728 | [@jhonelel-lang](https://github.com/jhonelel-lang) |
+| Integrante | Elvis Anthony Ayala Yagual | 0924951585 | [@usuario](https://github.com/) |
+| Integrante | José Francisco Lucas Zambrano | 0957617319 | [@usuario](https://github.com/) |
+| Integrante | Steven Andrés Vargas Arias | 0951971761 | [@usuario](https://github.com/) |
+| Integrante | Bryan David Villa Jara | 0950021717 | [@usuario](https://github.com/) |
+| Integrante | Jhon Jairo Chalen Baquerizo | 0955784327 | [@usuario](https://github.com/) |
+
+---
+
+## 🎥 Video Demostrativo
+
+> **[HAZ CLIC AQUÍ PARA VER EL VIDEO DEL PROYECTO EN YOUTUBE]**
+> *(Pega aquí el enlace de tu video)*
+
+---
+
+## 📄 Descripción del Agente
+
+"El Enjambre IA" es un asistente virtual conversacional basado en el modelo **Google Gemini 1.5 Flash**. Su objetivo es resolver la ineficiencia en los procesos tradicionales de cobranza, ofreciendo una alternativa empática, disponible 24/7 y segura.
+
+El agente no solo conversa, sino que actúa: tiene capacidad para acceder a bases de datos simuladas, realizar cálculos financieros y escribir registros de compromiso de pago, todo respetando reglas de negocio estrictas (como montos mínimos de negociación).
 
 ---
 
