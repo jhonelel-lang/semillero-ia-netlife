@@ -12,7 +12,7 @@ Este proyecto implementa un Agente ReAct (Reasoning + Acting) capaz de interactu
 
 ## 🚀 Características Principales
 
-* **🧠 Modelo Avanzado:** Utiliza **Google Gemini 1.5 Flash** para respuestas rápidas y razonamiento lógico.
+* **🧠 Modelo Avanzado:** Utiliza **Google Gemini 2.5 Flash** para respuestas rápidas y razonamiento lógico.
 * **🛡️ Validación de Identidad:** Implementa un "Firewall Lógico" que impide revelar datos sensibles (deuda, días de mora) hasta que el usuario confirma su ciudad de residencia.
 * **🤝 Negociación Autónoma:** Evalúa ofertas económicas. El agente tiene autonomía para aceptar ofertas si cubren al menos el **10% de la deuda**.
 * **🔄 Cambio de API Key en Caliente:** Sistema de resiliencia que permite cambiar la credencial de Google en tiempo de ejecución (runtime) sin perder la memoria de la conversación (ideal para límites de cuota).
