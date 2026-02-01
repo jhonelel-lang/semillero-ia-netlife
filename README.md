@@ -65,4 +65,4 @@ El agente cuenta con las siguientes herramientas conectadas a una base de datos 
 Para iniciar el agente, ejecuta el script principal desde la consola:
 
 ```bash
-python AgenteCobranzas.py
+python main.py
