@@ -24,7 +24,7 @@ Este repositorio contiene el código fuente y documentación de un Agente Inteli
 ## 🎥 Video Demostrativo
 
 > **[HAZ CLIC AQUÍ PARA VER EL VIDEO DEL PROYECTO EN YOUTUBE]**
-> *(Pega aquí el enlace de tu video)*
+> *(https://youtu.be/RnAjwD7POwk)*
 
 ---
 
