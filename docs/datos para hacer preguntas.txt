@@ -1,0 +1,5 @@
+    "0912345678": {"nombre": "Carlos Mendieta", "ciudad": "Guayaquil", "region": "Costa"},
+    "1712345678": {"nombre": "Andrea Castillo", "ciudad": "Quito", "region": "Sierra"},
+    "0102030405": {"nombre": "Jorge Viteri", "ciudad": "Cuenca", "region": "Sierra"},
+    "1309876543": {"nombre": "Luisa Parraga", "ciudad": "Manta", "region": "Costa"},
+    "0705432109": {"nombre": "Roberto Noboa", "ciudad": "Machala", "region": "Costa"},
