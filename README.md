@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-Orchestration-green?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-1.5%20Flash-orange?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-orange?style=for-the-badge)
 
 > **Sistema inteligente de negociación de deuda y gestión de cartera basado en Modelos de Lenguaje (LLMs).**
 
